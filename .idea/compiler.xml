@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="2020211001000717QiuHongtao" />
+        <module name="2020211001000709GuXianghui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="2020211001000717QiuHongtao" target="1.8" />
+      <module name="2020211001000709GuXianghui" target="1.8" />
       <module name="Dabing1201" target="1.8" />
     </bytecodeTargetLevel>
   </component>

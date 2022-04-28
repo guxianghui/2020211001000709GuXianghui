@@ -1,4 +1,4 @@
-package com.qiuhongtao.controller;
+package com.guxianghui.controller;
 
 import javax.servlet.*;
 import javax.servlet.http.*;

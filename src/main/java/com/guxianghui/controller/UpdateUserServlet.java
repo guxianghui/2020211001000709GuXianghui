@@ -1,7 +1,7 @@
-package com.qiuhongtao.controller;
+package com.guxianghui.controller;
 
-import com.qiuhongtao.dao.UserDao;
-import com.qiuhongtao.model.User;
+import com.guxianghui.dao.UserDao;
+import com.guxianghui.model.User;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
@@ -10,9 +10,6 @@ import java.io.IOException;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Date;
-import java.text.SimpleDateFormat;
-
-import static javafx.application.ConditionalFeature.WEB;
 
 @WebServlet(name = "UpdateUserServlet", value = "/updateUser")//url
 public class UpdateUserServlet extends HttpServlet {

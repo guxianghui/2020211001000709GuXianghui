@@ -1,4 +1,4 @@
-package com.qiuhongtao.filter;
+package com.guxianghui.filter;
 
 import javax.servlet.*;
 import javax.servlet.annotation.*;

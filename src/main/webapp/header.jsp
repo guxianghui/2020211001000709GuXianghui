@@ -1,4 +1,4 @@
-<%@ page import="com.qiuhongtao.model.User" %>
+<%@ page import="com.guxianghui.model.User" %>
 <html>
 <head>
     <title>My Online Shop</title>

@@ -1,4 +1,4 @@
-package com.qiuhongtao.model;
+package com.guxianghui.model;
 
 import java.util.Date;
 

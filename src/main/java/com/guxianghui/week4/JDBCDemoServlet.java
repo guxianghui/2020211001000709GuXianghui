@@ -1,8 +1,6 @@
-package com.qiuhongtao.week4;
+package com.guxianghui.week4;
 
 import javax.servlet.*;
-import javax.servlet.annotation.WebInitParam;
-import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
 import java.io.IOException;
 import java.sql.Connection;

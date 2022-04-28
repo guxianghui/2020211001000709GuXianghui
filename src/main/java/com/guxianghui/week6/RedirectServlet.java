@@ -1,4 +1,4 @@
-package com.qiuhongtao.week6;
+package com.guxianghui.week6;
 
 import javax.servlet.*;
 import javax.servlet.http.*;

@@ -1,9 +1,9 @@
-package com.qiuhongtao.week5;
+package com.guxianghui.week5;
 
 
 
-import com.qiuhongtao.dao.UserDao;
-import com.qiuhongtao.model.User;
+import com.guxianghui.dao.UserDao;
+import com.guxianghui.model.User;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
@@ -11,7 +11,6 @@ import javax.servlet.annotation.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Connection;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 
 @WebServlet(name = "LoginServlet", value = "/login")
